@@ -1,4 +1,4 @@
-FROM quay.io/coreos/etcd:v2.3.7
+FROM quay.io/coreos/etcd:v3.4.0
 
 MAINTAINER GasBuddy <developers@gasbuddy.com>
 
